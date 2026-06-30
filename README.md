@@ -464,3 +464,568 @@ Available interactions include:
 These interactive features enable users to perform self-service analytics without requiring additional reports or manual calculations.
 
 
+# Returns Analysis
+
+<p align="center">
+  <img src="images/Returns_Analysis.png" width="100%">
+</p>
+
+## Objective
+
+The Returns Analysis page evaluates product return behavior across different regions, brands, products, cities, and time periods. Understanding return patterns helps the business identify quality issues, improve customer satisfaction, minimize revenue loss, and optimize inventory management.
+
+---
+
+## Key Performance Indicators (KPIs)
+
+- Total Products Returned
+- Return Rate
+- Most Returned Product
+- Most Returned Brand
+
+---
+
+## Visualizations Included
+
+- Returns by Month
+- Returns by Region
+- Return Rate by Product Brand
+- Top 15 Most Returned Products
+- Top 10 Most Returned Brands
+- Top 10 Cities with Highest Returns
+- Month and Day Slicers
+
+---
+
+## Business Questions Answered
+
+- What is the company's overall return rate?
+- Which products are returned most frequently?
+- Which brands experience the highest number of returns?
+- Which regions generate the highest return volume?
+- Which cities contribute the most product returns?
+- How do returns vary throughout the year?
+- Which brands have the highest percentage return rate?
+
+---
+
+## Key Insights
+
+### Overall Return Performance
+
+The overall product return rate is approximately **0.99%**, indicating that fewer than one product out of every hundred sold is returned. This suggests strong product quality and effective order fulfillment across the business.
+
+### Product Returns
+
+**Hermanos Red Pepper** emerged as the most returned product, indicating that this item may require further investigation into product quality, packaging, customer expectations, or supplier performance.
+
+### Brand Performance
+
+The **Hermanos** brand records the highest number of product returns among all brands. While this may partially reflect its strong sales volume, monitoring return frequency is important to determine whether quality improvements are required.
+
+### Regional Analysis
+
+The **North West** region accounts for nearly half of all returned products, making it the primary contributor to overall returns. Since this region also generates the highest sales, return performance should be evaluated relative to sales volume for more meaningful insights.
+
+### Geographic Distribution
+
+Cities such as **Tacoma**, **Salem**, and **Hidalgo** record the highest return volumes, helping management identify locations where operational improvements or customer education may reduce return rates.
+
+### Brand Return Rate
+
+Although several brands generate high return volumes, the return rate analysis highlights brands whose returns are disproportionately high relative to sales. These brands should be prioritized for detailed investigation.
+
+---
+
+## Business Value
+
+This page helps management to:
+
+- Monitor product quality.
+- Identify problematic products.
+- Reduce operational losses caused by returns.
+- Improve supplier evaluation.
+- Enhance customer satisfaction.
+- Optimize inventory planning.
+
+---
+
+# Customers Insights
+
+<p align="center">
+  <img src="images/Customers_Insights.png" width="100%">
+</p>
+
+## Objective
+
+The Customers Insights page explores customer demographics, purchasing behavior, membership programs, income groups, and retention metrics. The goal is to better understand customer characteristics, improve retention strategies, and identify high-value customer segments.
+
+---
+
+## Key Performance Indicators (KPIs)
+
+- Customer Retention Rate
+- Customer Churn Rate
+- Customers (1997)
+- Customers (1998)
+- Retained Customers
+- Churned Customers
+
+---
+
+## Visualizations Included
+
+- Sales by Membership Card
+- Customers by Occupation
+- Customers by Education
+- Sales by Income Group
+- Sales by Age Group
+- Top 10 High-Value Customers
+- KPI Cards
+
+---
+
+## Business Questions Answered
+
+- What percentage of customers are retained?
+- How many customers were gained between 1997 and 1998?
+- Which membership tier contributes the highest revenue?
+- Which occupations generate the largest customer base?
+- Which education levels dominate the customer population?
+- Which income groups spend the most?
+- Who are the company's highest-value customers?
+
+---
+
+## Key Insights
+
+### Customer Growth
+
+The customer base increased from approximately **6,000 customers in 1997** to nearly **8,000 customers in 1998**, indicating successful business growth and customer acquisition.
+
+### Customer Retention
+
+The business achieved an impressive **85.99% customer retention rate**, while maintaining a relatively low churn rate of **14.01%**. This indicates strong customer loyalty and effective customer relationship management.
+
+### Membership Analysis
+
+Customers with **Bronze membership cards** contribute the highest share of sales. Although premium membership tiers exist, the largest revenue continues to come from regular customers.
+
+### Customer Demographics
+
+Professionals represent the largest occupational customer group, while customers with High School and Partial College education form a significant portion of the customer base.
+
+### Income Analysis
+
+Customers earning between **$30K–$50K annually** contribute the highest sales, suggesting that middle-income households represent Maven Market's primary target market.
+
+### Customer Value
+
+The top ten customers contribute approximately **1.09%** of total sales. Revenue is therefore well distributed across the customer base rather than relying heavily on a small group of buyers.
+
+---
+
+## Business Value
+
+The customer dashboard enables management to:
+
+- Improve customer retention strategies.
+- Develop targeted marketing campaigns.
+- Understand purchasing behavior.
+- Identify valuable customer segments.
+- Optimize loyalty programs.
+- Support customer relationship management initiatives.
+
+---
+
+# Stores Performance
+
+<p align="center">
+  <img src="images/Stores_Performance.png" width="100%">
+</p>
+
+## Objective
+
+The Stores Performance page evaluates the performance of Maven Market's retail stores by comparing sales, profitability, store types, geographic distribution, and physical store characteristics.
+
+---
+
+## Key Performance Indicators (KPIs)
+
+- Total Stores
+- Total Sales
+- Total Profit
+- Average Sales per Store
+
+---
+
+## Visualizations Included
+
+- Top 10 Best Selling Stores
+- Sales by State
+- Profit by Store Type
+- Sales vs Total Store Area
+- Sales vs Grocery Area
+- Sales by Store Age
+- Interactive Store Type Filter
+
+---
+
+## Business Questions Answered
+
+- Which stores generate the highest revenue?
+- Which store types are most profitable?
+- Which states contribute the highest sales?
+- Does store size influence revenue?
+- Does grocery floor area affect sales?
+- How does store age relate to business performance?
+
+---
+
+## Key Insights
+
+### Overall Store Performance
+
+The dashboard evaluates **24 retail stores**, generating an average sales value of approximately **$73.5K per store**.
+
+### Best Performing Stores
+
+Stores such as **Store 13**, **Store 17**, and **Store 15** consistently outperform other locations, providing useful benchmarks for operational best practices.
+
+### Geographic Performance
+
+The state of **Washington** contributes nearly one-third of total sales, making it the company's strongest performing state. California and Oregon also represent major revenue contributors.
+
+### Store Types
+
+**Supermarket Deluxe** stores generate the highest total profit, suggesting that larger retail formats deliver stronger financial performance than smaller grocery stores.
+
+### Store Characteristics
+
+Scatter plot analysis indicates a positive relationship between total store area and sales, suggesting that larger stores generally generate higher revenue.
+
+---
+
+## Business Value
+
+The report supports:
+
+- Store benchmarking.
+- Expansion planning.
+- Store investment decisions.
+- Regional performance evaluation.
+- Resource allocation.
+- Operational improvement initiatives.
+
+---
+
+# Product Analysis
+
+<p align="center">
+  <img src="images/Maven Market Analysis-7.png" width="100%">
+</p>
+
+
+## Objective
+
+The Product Analysis page evaluates product profitability, sales performance, inventory movement, and regional performance to identify opportunities for product optimization and improved merchandising decisions.
+
+---
+
+## Key Performance Indicators (KPIs)
+
+- Total Sales
+- Total Profit
+- Profit Margin
+- Total Products
+- Average Selling Price
+
+---
+
+## Visualizations Included
+
+- Sales and Profit by Product
+- Top 10 Best Selling Products
+- Top 10 High Margin Products
+- Slow Moving Products
+- Regional Product Performance Matrix
+- Sales by Brand and Membership Card
+- KPI Cards
+
+---
+
+## Business Questions Answered
+
+- Which products generate the highest sales?
+- Which products produce the highest profit?
+- Which products achieve the highest profit margins?
+- Which products move slowly?
+- How does product performance differ across regions?
+- Which customer memberships purchase different product brands?
+
+---
+
+## Key Insights
+
+### Overall Profitability
+
+The business generated approximately **$1.76 million** in sales and **$1.05 million** in profit while maintaining an overall **59.67% profit margin**, demonstrating strong product profitability.
+
+### Best Selling Products
+
+Products including **Hermanos Green Peppers**, **Hilltop Mint Mouthwash**, and **Carlson Head Cheese** consistently rank among the highest revenue-generating products.
+
+### High Margin Products
+
+Several products achieve exceptionally high profit margins despite relatively lower sales volumes. These products represent opportunities for targeted promotions and increased visibility.
+
+### Slow Moving Inventory
+
+Products such as **CDR Apple Preserves**, **Washington Berry Juice**, and **Choice Bubble Gum** show comparatively low sales activity and may require promotional campaigns, pricing adjustments, or inventory optimization.
+
+### Regional Product Performance
+
+The regional comparison matrix highlights significant differences in product performance across geographic markets, emphasizing the need for region-specific merchandising strategies.
+
+### Membership Purchasing Patterns
+
+The analysis reveals noticeable differences in purchasing behavior across membership card categories, enabling more personalized marketing and product recommendations.
+
+---
+
+## Business Value
+
+The Product Analysis dashboard enables management to:
+
+- Optimize inventory planning.
+- Increase profitability.
+- Identify products for promotional campaigns.
+- Reduce excess inventory.
+- Improve regional merchandising strategies.
+- Support data-driven product portfolio decisions.
+
+---
+
+# Business Questions Answered
+
+The dashboard was designed to answer key business questions across multiple operational areas.
+
+## Sales Analysis
+
+- How has sales performance changed over time?
+- Which year generated the highest revenue?
+- Which months contribute the most sales?
+- Which regions are the strongest revenue contributors?
+- Which customer membership tier generates the highest sales?
+- Which products are the best-selling?
+
+---
+
+## Orders Overview
+
+- How does order volume change throughout the year?
+- Which countries generate the highest number of orders?
+- Which products are ordered most frequently?
+- What is the average order size?
+- How does product size influence purchasing behavior?
+
+---
+
+## Returns Analysis
+
+- What is the company's overall return rate?
+- Which products have the highest return volume?
+- Which brands receive the most returns?
+- Which regions and cities experience the highest number of returns?
+- Which brands have the highest return rates?
+
+---
+
+## Customers Insights
+
+- What is the customer retention rate?
+- How many customers were acquired between 1997 and 1998?
+- Which membership cards contribute the most revenue?
+- Which customer occupations and education levels dominate the customer base?
+- Which income groups generate the highest sales?
+- Who are the company's highest-value customers?
+
+---
+
+## Stores Performance
+
+- Which stores generate the highest sales?
+- Which store types are the most profitable?
+- Which states contribute the highest revenue?
+- Does store size influence sales performance?
+- Does grocery floor area affect revenue generation?
+
+---
+
+## Product Analysis
+
+- Which products generate the highest revenue?
+- Which products produce the highest profit?
+- Which products achieve the highest profit margins?
+- Which products move slowly?
+- How does product performance vary across regions?
+- How do customer memberships influence product purchasing?
+
+---
+
+# Key Findings
+
+The dashboard revealed several important business insights that can help management improve operational performance and support strategic decision-making.
+
+### Sales Performance
+
+- Maven Market generated **$1.76M** in total sales with **$1.05M** in profit.
+- The business achieved an overall **59.67% profit margin**, indicating strong operational profitability.
+- Sales increased from 1997 to 1998, demonstrating positive business growth.
+
+### Regional Performance
+
+- The **North West** region consistently generated the highest sales.
+- Washington contributed the largest share of overall revenue.
+- The United States accounted for the majority of customer orders.
+
+### Customer Behavior
+
+- Bronze membership customers generated the highest share of sales.
+- Customer retention reached nearly **86%**, indicating strong customer loyalty.
+- Middle-income customers represented the largest revenue-generating customer segment.
+
+### Product Performance
+
+- A small group of products generated a significant share of total revenue.
+- Several products demonstrated exceptionally high profit margins.
+- Multiple slow-moving products were identified as candidates for inventory optimization.
+
+### Returns Performance
+
+- Overall return rate remained below **1%**, suggesting effective product quality and customer satisfaction.
+- Hermanos products experienced the highest number of returns.
+- North West generated the largest return volume, primarily due to its higher sales activity.
+
+### Store Performance
+
+- Supermarket Deluxe stores generated the highest profits.
+- Larger stores generally achieved higher sales.
+- Top-performing stores can serve as benchmarks for operational best practices.
+
+---
+
+# Business Recommendations
+
+Based on the insights obtained from the dashboard, the following recommendations can support business growth and operational efficiency.
+
+## Increase Investment in High-Performing Regions
+
+Allocate additional inventory, marketing resources, and promotional campaigns to regions demonstrating consistently high sales performance.
+
+---
+
+## Optimize Slow-Moving Products
+
+Review pricing strategies, promotional activities, and inventory levels for products with consistently low sales to reduce carrying costs.
+
+---
+
+## Investigate High Return Products
+
+Conduct detailed root cause analysis for frequently returned products to identify quality issues, packaging concerns, or supplier-related problems.
+
+---
+
+## Strengthen Customer Loyalty Programs
+
+Since Bronze members contribute the largest share of sales, targeted loyalty campaigns could encourage upgrades to higher membership tiers while improving long-term retention.
+
+---
+
+## Expand High-Margin Product Sales
+
+Products generating strong profit margins should receive increased visibility through promotions, cross-selling opportunities, and strategic product placement.
+
+---
+
+## Benchmark High-Performing Stores
+
+Analyze the operational practices of top-performing stores and replicate successful strategies across lower-performing locations.
+
+---
+
+## Enable Region-Specific Product Strategies
+
+Since customer purchasing behavior varies across regions, localized product assortments and promotions can improve overall sales performance.
+
+---
+
+# Skills Demonstrated
+
+This project demonstrates practical Business Intelligence and Data Analytics skills across the complete analytics lifecycle.
+
+### Business Intelligence
+
+- Interactive Dashboard Development
+- KPI Reporting
+- Business Storytelling
+- Executive Dashboard Design
+
+### Data Preparation
+
+- Data Cleaning
+- Data Transformation
+- Query Merging
+- Appending Tables
+- Handling Missing Values
+- Data Type Standardization
+
+### Data Modeling
+
+- Star Schema Design
+- Relationship Management
+- Calendar Table Creation
+- Fact and Dimension Modeling
+
+### DAX
+
+- Calculated Measures
+- Business KPIs
+- Time Intelligence
+- Customer Metrics
+- Profitability Analysis
+- Return Rate Calculations
+
+### Data Visualization
+
+- Interactive Charts
+- KPI Cards
+- Maps
+- Matrix Tables
+- Slicers
+- Drill-through Navigation
+- Cross-filtering
+
+### Business Analysis
+
+- Sales Analysis
+- Customer Segmentation
+- Product Performance Analysis
+- Store Performance Evaluation
+- Returns Analysis
+- Trend Analysis
+- Decision Support
+
+---
+
+
+# Conclusion
+
+This project demonstrates the complete Business Intelligence workflow, from raw data preparation to interactive dashboard development and business insight generation.
+
+Using **Power BI**, **Power Query Editor**, **DAX**, and **Excel**, the Maven Market dataset was transformed into a comprehensive reporting solution capable of monitoring sales performance, customer behavior, product profitability, store efficiency, and product returns.
+
+The dashboard enables stakeholders to explore data interactively, monitor key performance indicators, identify growth opportunities, and support strategic decision-making through data-driven insights.
+
+Beyond technical implementation, this project highlights the importance of combining data modeling, visualization, and business storytelling to solve real-world business problems effectively.
