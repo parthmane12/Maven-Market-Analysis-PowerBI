@@ -4,14 +4,6 @@
 
 ---
 
-# Home Page
-
-<p align="center">
-  <img src="images/Home_Page.png" width="100%">
-</p>
-
-The Home Page serves as the central navigation hub of the dashboard, providing users with an intuitive starting point for exploring different aspects of Maven Market's business performance. Custom navigation buttons allow seamless movement between report pages, creating an application-like user experience while maintaining a consistent visual theme throughout the report.
-
 The dashboard consists of seven interactive pages:
 
 - Home
@@ -197,11 +189,9 @@ These preprocessing steps ensured that the dashboard was built on reliable, anal
 
 # Data Modeling
 
-> **Insert Data Model Screenshot Here**
-
-```
-images/Data_Model.png
-```
+<p align="center">
+  <img src="images/Data_Model.png" width="100%">
+</p>
 
 A **Star Schema** data model was designed to improve report performance, simplify filtering, and support scalable analytics.
 
@@ -264,34 +254,213 @@ These measures provide dynamic calculations that automatically respond to report
 
 ---
 
-# Repository Structure
 
-```text
-Maven-Market-Analysis/
-│
-├── Dashboard.pbix
-├── Dashboard.pdf
-├── README.md
-│
-├── dataset/
-│   ├── Customers.csv
-│   ├── Products.csv
-│   ├── Stores.csv
-│   ├── Regions.csv
-│   ├── Returns.csv
-│   └── Transactions.csv
-│
-└── images/
-    ├── Home.png
-    ├── Data_Model.png
-    ├── Sales_Analysis.png
-    ├── Orders_Overview.png
-    ├── Returns_Analysis.png
-    ├── Customers_Insights.png
-    ├── Stores_Performance.png
-    └── Product_Analysis.png
-```
+# Dashboard Walkthrough
+
+The Maven Market dashboard consists of seven interactive pages, each designed to analyze a specific aspect of the business. Together, these reports provide a comprehensive view of organizational performance, enabling stakeholders to monitor KPIs, identify trends, and make informed business decisions.
 
 ---
 
-**Next:** Dashboard Walkthrough — Home Page, Sales Analysis, and Orders Overview.
+# Home Page
+
+<p align="center">
+  <img src="images/Home_Page.png" width="100%">
+</p>
+
+## Purpose
+
+The Home Page serves as the central navigation hub of the dashboard, providing users with a clean and intuitive interface to access every analytical report. Instead of relying on Power BI's default page tabs, custom navigation buttons create an application-like experience, making the dashboard easier to explore.
+
+## Features
+
+- Interactive navigation buttons
+- Consistent dashboard theme
+- User-friendly layout
+- Quick access to all report pages
+- Professional landing page design
+
+## Business Value
+
+A well-designed landing page significantly improves the user experience by reducing navigation effort and making the dashboard accessible to both technical and non-technical stakeholders.
+
+---
+
+# Sales Analysis
+
+<p align="center">
+  <img src="images/Sales_Analysis.png" width="100%">
+</p>
+
+## Objective
+
+The Sales Analysis page provides a comprehensive overview of Maven Market's sales performance across different time periods, regions, customer segments, and products. The objective is to identify revenue trends, understand profitability, and uncover the primary drivers of business growth.
+
+---
+
+## Key Performance Indicators (KPIs)
+
+- Total Sales
+- Total Profit
+- Profit Margin %
+- Total Quantity Sold
+
+---
+
+## Visualizations Included
+
+- Sales by Year
+- Sales by Month
+- Sales by Region
+- Sales by Customer Membership
+- Top 10 Best Selling Products
+- Interactive Region Filter
+- Month Slicer
+- KPI Cards
+
+---
+
+## Business Questions Answered
+
+- How has sales performance changed over time?
+- Which year generated the highest revenue?
+- Which months recorded peak sales?
+- Which regions contribute the highest sales?
+- Which customer membership tier generates the most revenue?
+- Which products are the top revenue generators?
+- How profitable is the business overall?
+
+---
+
+## Key Insights
+
+### Overall Business Performance
+
+The business generated approximately **$1.76 million** in total sales while achieving **$1.05 million** in total profit, resulting in an impressive **59.67% profit margin**. This indicates that Maven Market maintains strong profitability across its retail operations.
+
+### Sales Trend
+
+Sales increased from 1997 to 1998, indicating positive business growth and improving customer demand over time.
+
+### Regional Performance
+
+The **North West** region contributed nearly half of the company's total sales, making it the strongest performing market. Mexico Central and South West also generated significant revenue, while Canada West contributed a comparatively smaller share.
+
+### Customer Segments
+
+Customers holding **Bronze membership cards** generated the largest portion of total sales, followed by Normal, Golden, and Silver members. This suggests that although premium memberships exist, the majority of revenue comes from regular retail customers.
+
+### Product Performance
+
+A relatively small number of products contribute a significant portion of total revenue. Products such as **Hermanos**, **Hilltop**, and **Carlson** consistently appear among the highest-selling products, highlighting their importance within the product portfolio.
+
+---
+
+## Business Value
+
+This page enables management to:
+
+- Monitor overall business performance.
+- Track sales growth over time.
+- Identify high-performing regions.
+- Evaluate customer purchasing behavior.
+- Optimize inventory planning.
+- Prioritize profitable product categories.
+
+---
+
+# Orders Overview
+
+<p align="center">
+  <img src="images/Orders_Overview.png" width="100%">
+</p>
+
+## Objective
+
+The Orders Overview page focuses on purchasing behavior by analyzing order volumes, product demand, geographical distribution, and ordering patterns. The report helps stakeholders understand customer purchasing trends and supports inventory planning.
+
+---
+
+## Key Metrics
+
+- Average Order Size
+- Average Product Size
+- Average Sales per Order
+- Average Stock Duration
+
+---
+
+## Visualizations Included
+
+- Monthly Order Volume
+- Orders by Country
+- Product Size Distribution
+- Top 10 Most Ordered Products
+- Regional Slicer
+- KPI Cards
+
+---
+
+## Business Questions Answered
+
+- How many products are ordered throughout the year?
+- Which months experience the highest order volumes?
+- Which countries generate the highest number of orders?
+- Which products are ordered most frequently?
+- What is the average order size?
+- How does product size relate to purchasing behavior?
+
+---
+
+## Key Insights
+
+### Monthly Order Trends
+
+Monthly order volumes remain relatively stable throughout the year, indicating consistent customer demand with only moderate seasonal fluctuations.
+
+### Geographic Distribution
+
+The **United States** accounts for approximately **67%** of all orders, making it Maven Market's largest operating market. Mexico contributes nearly **27%**, while Canada accounts for approximately **6%** of total orders.
+
+### Product Demand
+
+Products such as **Ebony Fresh Lima Beans**, **Hilltop Mint Mouthwash**, and **Great English Muffins** rank among the most frequently ordered products, indicating consistently strong customer demand.
+
+### Product Size Analysis
+
+The average product size purchased is approximately **42.64**, providing insights into customer purchasing preferences and helping optimize inventory management.
+
+### Order Characteristics
+
+Average order quantities remain relatively consistent, suggesting stable purchasing behavior across customers rather than extreme variations in order size.
+
+---
+
+## Business Value
+
+This page assists business users in:
+
+- Forecasting inventory demand.
+- Understanding customer purchasing behavior.
+- Identifying high-demand products.
+- Optimizing warehouse operations.
+- Improving supply chain planning.
+- Supporting inventory replenishment strategies.
+
+---
+
+## Interactive Features
+
+All report pages support interactive filtering, allowing users to explore business performance dynamically.
+
+Available interactions include:
+
+- Cross-filtering between visuals
+- Month slicers
+- Regional filtering
+- Drill-down capabilities
+- Interactive KPI updates
+- Dynamic charts responding to user selections
+
+These interactive features enable users to perform self-service analytics without requiring additional reports or manual calculations.
+
+
