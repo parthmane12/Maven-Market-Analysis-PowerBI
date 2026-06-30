@@ -722,7 +722,7 @@ The report supports:
 # Product Analysis
 
 <p align="center">
-  <img src="images/Maven Market Analysis-7.png" width="100%">
+  <img src="images/Product_Analysis.png" width="100%">
 </p>
 
 
